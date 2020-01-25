@@ -1,0 +1,9 @@
+pythom manage.py migrate ()[Dcria um banco de dados)[.
+
+python manage.py startapp <nome da aplicacao>
+
+# fazendo migracao
+python python manage.py makemigrations <nome ad aplicacao>
+
+# aplicando modificacoes ao banco de dados
+python manage.py migrate <nome da aplicacao>
