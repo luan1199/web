@@ -1,0 +1,48 @@
+<html> 
+    <head>
+        <title>98store</title>
+        <meta http-equiv="refresh" content="100">
+    <style>
+        body {background-color:#f9dfe8;}
+        .rectangle { height: 50px;width: 100px; background-color:#f2f0f3 ;}
+    </style>
+    
+</head>
+    <body>
+        <div id=bg_recursos style="position: absolute;">
+
+        <svg width='1600' height='900'>
+            <rect x='337' y='16' width='852' height='900' style="fill: white;" align=''/>
+        </svg>   
+ 
+        </div>
+        
+        <div id="regiao_cima" style='position:absolute' x=-3>
+
+        <svg width='1600' heigth="57">
+            <g>
+                <rect x='-2' y='16' width='1593 ' height='77' style="fill:white;"/>
+                <rect x='-2' y='25' width='1593 ' height='57' style="fill:rgb(242,240,243);"
+            />
+            <text y= 65 x=700  font-family="Nature" font-size="35" fill="black" style=" font-size: 62;";>98store</text>
+            </g>
+        </svg>
+
+        </div>
+
+        <div id="regiao_menu" style="position: absolute;">
+            <svg height='900' width='1600'>
+                <g>
+                <rect x='348' y='99' width='829' height='61' style="fill: rgb(249,223,232);"/>
+                <rect x='351' y='102' width='822' height='54' style="fill:white"/>
+                <rect x='600' y='107' ry=2 width='4' height='44' style="fill: rgb(249,223,232)"/>
+                <rect x='930' y='107' ry=2 width='4' height='44' style="fill: rgb(249,223,232)"/>
+                <text x=620  y=138 style="font-family: Nature; font-size:40">Seja você mesma, seja 98!</text>
+
+              </g>
+            </svg>
+
+        </div>
+    </body>
+
+</html>
